@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   toddmurphy
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,18 +38,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            ToddMurphyAUS
+#facebook:           username
+#github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           toddmurphy92  
 #xing:              username
-instagram:          username
+instagram:          toddmurphy1992
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -68,7 +68,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: ""
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
